@@ -1,0 +1,64 @@
+<html>
+	<head>
+		<h1 align="center"> Minha lista <h1/>
+		<h2 align="center"> Cômodos e móveis da minha casa <h2/>
+	</head>
+
+	<body>
+		<ol>
+			<li>Cozinha
+				<ol>
+					<li>Geladeira
+						<ul>
+							<li>Água
+							<li>Margarina
+							<li>Batata
+						</ul>
+					<li>Fogão
+						<ul>
+							<li>Panela de presso
+							<li>Frigideira
+						</ul>
+					</li>
+				</ol>
+			</li>
+			<li>Sala
+				<ol>
+					<li>Sofá
+						<ul>
+							<li>Almofada
+						</ul>
+					<li>Televisão
+						<ul>
+							<li>Controle
+						</ul>
+					</li>
+				</ol>
+			</li>
+			<li>Quarto
+				<ol>
+					<li>Cama
+						<ul>
+							<li>Coberta
+							<li>Travesseiro
+						</ul>
+					<li>Guarda-roupa
+						<ul>
+							<li>Calça
+							<li>Blusa
+							<li>Vestido
+							<li>Saia
+						</ul>
+					<li>Cômoda
+						<ul>
+							<li>Pente
+							<li>Escova de cabelo
+							<li>Perfume
+							<li>Hidratante
+						</ul>	
+					</li>
+				</ol>
+			</li>	
+		</ol>	
+	</body>
+</html>
